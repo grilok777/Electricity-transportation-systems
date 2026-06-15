@@ -1,0 +1,100 @@
+EnergyManagementSystem/          <-- Головна папка (Solution)
+│
+├── EnergyManagementSystem.sln   <-- Файл солюшену
+│
+├── src/                         <-- Папка з вихідним кодом
+│   │
+│   ├── GenerationService/       <-- МІКРОСЕРВІС 1: ГЕНЕРАЦІЯ
+│   │   │
+│   │   ├── GenerationService.Domain/           (Шар 3: Core Domain)
+│   │   │   ├── Entities/
+│   │   │   │   ├── Deal.cs
+│   │   │   │   ├── Owner.cs
+│   │   │   │   ├── PowerPlant.cs
+│   │   │   │   ├── PowerPlantDay.cs
+│   │   │   │   └── HourData.cs
+│   │   │   ├── Interfaces/
+│   │   │   │   ├── IBaseRepository.cs
+│   │   │   │   ├── IOwnerRepository.cs
+│   │   │   │   └── IGenerationUnitOfWork.cs
+│   │   │   └── GenerationService.Domain.csproj
+│   │   │
+│   │   ├── GenerationService.Application/      (Шар 2: Use Cases)
+│   │   │   ├── DTOs/                           (Об'єкти для передачі даних)
+│   │   │   ├── Services/
+│   │   │   │   ├── GenerationService.cs
+│   │   │   │   └── OwnerService.cs
+│   │   │   ├── IntegrationEvents/              (Події для RabbitMQ)
+│   │   │   │   └── PowerPlantDayCreatedEvent.cs
+│   │   │   └── GenerationService.Application.csproj
+│   │   │
+│   │   ├── GenerationService.Infrastructure/   (Шар 4: Data Access & Messages)
+│   │   │   ├── Data/
+│   │   │   │   ├── GenerationDbContext.cs
+│   │   │   │   └── GenerationUnitOfWork.cs
+│   │   │   ├── Repositories/
+│   │   │   │   ├── BaseRepository.cs
+│   │   │   │   └── OwnerRepository.cs
+│   │   │   ├── Messaging/                      (Реалізація RabbitMQ)
+│   │   │   │   └── EventPublisher.cs
+│   │   │   ├── Migrations/                     (Згенеровані EF Core міграції)
+│   │   │   └── GenerationService.Infrastructure.csproj
+│   │   │
+│   │   └── GenerationService.WebAPI/           (Шар 1: Presentation)
+│   │       ├── Controllers/
+│   │       │   ├── GenerationController.cs
+│   │       │   └── OwnerController.cs
+│   │       ├── Extensions/                     (Принцип DRY)
+│   │       │   └── DependencyInjectionSetup.cs
+│   │       ├── appsettings.json                (Рядки підключення до GenerationDB)
+│   │       ├── Program.cs
+│   │       └── GenerationService.WebAPI.csproj
+│   │
+│   └── GridService/             <-- МІКРОСЕРВІС 2: МЕРЕЖА
+│       │
+│       ├── GridService.Domain/                 (Шар 3: Core Domain)
+│       │   ├── Entities/
+│       │   │   ├── Operator.cs
+│       │   │   ├── Substation.cs
+│       │   │   ├── NeedForHourLine.cs
+│       │   │   └── ... (інші сутності)
+│       │   ├── Interfaces/
+│       │   │   ├── IBaseRepository.cs
+│       │   │   ├── IOperatorRepository.cs
+│       │   │   └── IGridUnitOfWork.cs
+│       │   └── GridService.Domain.csproj
+│       │
+│       ├── GridService.Application/            (Шар 2: Use Cases)
+│       │   ├── DTOs/
+│       │   ├── Services/
+│       │   │   ├── GridBalancingService.cs
+│       │   │   └── OperatorService.cs
+│       │   ├── EventHandlers/                  (Слухачі подій RabbitMQ)
+│       │   │   └── PowerPlantDayCreatedHandler.cs
+│       │   └── GridService.Application.csproj
+│       │
+│       ├── GridService.Infrastructure/         (Шар 4: Data Access & Messages)
+│       │   ├── Data/
+│       │   │   ├── GridDbContext.cs
+│       │   │   └── GridUnitOfWork.cs
+│       │   ├── Repositories/
+│       │   │   ├── BaseRepository.cs
+│       │   │   └── OperatorRepository.cs
+│       │   ├── Messaging/                      (Реалізація RabbitMQ підписки)
+│       │   │   └── EventConsumer.cs
+│       │   ├── Migrations/
+│       │   └── GridService.Infrastructure.csproj
+│       │
+│       └── GridService.WebAPI/                 (Шар 1: Presentation)
+│           ├── Controllers/
+│           │   ├── GridController.cs
+│           │   └── OperatorAuthController.cs
+│           ├── Extensions/
+│           │   └── DependencyInjectionSetup.cs
+│           ├── appsettings.json                (Рядки підключення до GridDB)
+│           ├── Program.cs
+│           └── GridService.WebAPI.csproj
+│
+└── tests/                       <-- Тести для обох мікросервісів
+    ├── GenerationService.UnitTests/
+    └── GridService.UnitTests/

@@ -1,0 +1,45 @@
+EnergyManagementSystem/
+│
+├── EnergyManagementSystem.sln
+│
+└── src/
+    │
+    └── GenerationService/       <-- МІКРОСЕРВІС 1: ГЕНЕРАЦІЯ
+        │
+        ├── GenerationService.Domain/
+        │   ├── Entities/                 <-- ВАШІ КЛАСИ З ФОТО ТЕПЕР ТУТ!
+        │   │   ├── OwnerDeal.cs          (Перенесені з вашої старої папки Models)
+        │   │   ├── Owner.cs
+        │   │   ├── PowerPlant.cs
+        │   │   ├── PowerPlantDay.cs
+        │   │   └── HourData.cs
+        │   ├── Interfaces/
+        │   │   ├── IBaseRepository.cs
+        │   │   ├── IOwnerRepository.cs
+        │   │   └── IGenerationUnitOfWork.cs
+        │   └── GenerationService.Domain.csproj
+        │
+        ├── GenerationService.Application/
+        │   ├── DTOs/
+        │   ├── Services/
+        │   │   ├── GenerationService.cs
+        │   │   └── OwnerService.cs
+        │   └── GenerationService.Application.csproj
+        │
+        ├── GenerationService.Infrastructure/
+        │   ├── Data/
+        │   │   ├── GenerationDbContext.cs  <-- ВАШ КОНТЕКСТ ТЕПЕР ТУТ
+        │   │   └── GenerationUnitOfWork.cs
+        │   ├── Repositories/
+        │   │   ├── BaseRepository.cs
+        │   │   └── OwnerRepository.cs
+        │   ├── Migrations/                 <-- СЮДИ ЗБЕРЕЖУТЬСЯ НОВІ МІГРАЦІЇ
+        │   └── GenerationService.Infrastructure.csproj
+        │
+        └── GenerationService.WebAPI/
+            ├── Controllers/
+            ├── Extensions/
+            │   └── DependencyInjectionSetup.cs
+            ├── appsettings.json            <-- РЯДОК ПІДКЛЮЧЕННЯ ДО БД ТУТ
+            ├── Program.cs
+            └── GenerationService.WebAPI.csproj

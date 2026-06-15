@@ -1,0 +1,11 @@
+D:\Mysor2\Practice\Electricity_transportation\GenerationService.Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mysor2\Practice\Electricity_transportation\GenerationService.Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Mysor2\Practice\Electricity_transportation\GenerationService.Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Mysor2\Practice\Electricity_transportation\GenerationService.Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Mysor2\Practice\Electricity_transportation\GenerationService.Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Mysor2\Practice\Electricity_transportation\GenerationService.Domain\bin\Debug\net8.0\Domain.dll
+D:\Mysor2\Practice\Electricity_transportation\GenerationService.Domain\bin\Debug\net8.0\Domain.pdb
+D:\Mysor2\Practice\Electricity_transportation\GenerationService.Domain\obj\Debug\net8.0\Domain.dll
+D:\Mysor2\Practice\Electricity_transportation\GenerationService.Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Mysor2\Practice\Electricity_transportation\GenerationService.Domain\obj\Debug\net8.0\Domain.pdb
+D:\Mysor2\Practice\Electricity_transportation\GenerationService.Domain\obj\Debug\net8.0\ref\Domain.dll

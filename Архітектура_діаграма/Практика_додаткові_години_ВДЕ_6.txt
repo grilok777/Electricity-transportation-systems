@@ -1,0 +1,120 @@
+<mxGraphModel dx="1874" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="800" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    <mxCell id="UNhM223-aSV3cXzMgdKH-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Шар 4: Infrastructure (Data Access)" vertex="1">
+      <mxGeometry height="360" width="560" x="850" y="480" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+      <mxGeometry height="506" width="1510" x="50" y="914" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Repository &amp; UoW Interfaces" vertex="1">
+      <mxGeometry height="257" width="875" x="65" y="1013" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-18" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Шар 2: Application (Use Cases)" vertex="1">
+      <mxGeometry height="250" width="705" x="65" y="520" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-19" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Шар 1: Web API (Presentation)" vertex="1">
+      <mxGeometry height="190" width="780" x="50" y="274" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Entities: Generation" vertex="1">
+      <mxGeometry height="369" width="420" x="1030" y="990" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-13" parent="UNhM223-aSV3cXzMgdKH-12" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=18;" value="Deal" vertex="1">
+      <mxGeometry height="70" width="70" x="330" y="80" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-14" parent="UNhM223-aSV3cXzMgdKH-12" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=18;" value="Owner" vertex="1">
+      <mxGeometry height="80" width="80" x="228.91" y="90" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-15" parent="UNhM223-aSV3cXzMgdKH-12" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=19;" value="PowerPlant" vertex="1">
+      <mxGeometry height="107.56" width="107.56" x="80" y="40" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-16" parent="UNhM223-aSV3cXzMgdKH-12" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=18;" value="PowerPlantDay" vertex="1">
+      <mxGeometry height="132.3" width="132.3" x="30" y="200" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-17" parent="UNhM223-aSV3cXzMgdKH-12" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=18;" value="HourData" vertex="1">
+      <mxGeometry height="94.37" width="94.37" x="214.54" y="210" as="geometry" />
+    </mxCell>
+    <mxCell id="NEW-DI-Setup" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" value="DI Setup (Extensions)" vertex="1">
+      <mxGeometry height="60" width="180" x="633" y="310" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-20" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Generation Controller" vertex="1">
+      <mxGeometry height="54" width="220" x="70" y="390" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-53" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="OwnerController" vertex="1">
+      <mxGeometry height="54" width="180" x="550" y="400" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-23" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Generation Service&#xa;(Управління угодами та станціями)" vertex="1">
+      <mxGeometry height="102" width="260" x="105.5" y="652" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-54" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="OwnerService&#xa;(Реєстрація, Авторизація,&#xa;Профіль)" vertex="1">
+      <mxGeometry height="102" width="249" x="510" y="539" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-26" parent="1" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="IGenerationUnitOfWork" vertex="1">
+      <mxGeometry height="54" width="199" x="100" y="1100" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-28" parent="1" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="IBaseRepository&lt;T&gt;" vertex="1">
+      <mxGeometry height="54" width="168" x="639" y="1173" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-56" parent="1" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="IOwnerRepository" vertex="1">
+      <mxGeometry height="54" width="157" x="365.5" y="1110" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-29" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Generation UnitOfWork Impl" vertex="1">
+      <mxGeometry height="50" width="230" x="868" y="528" as="geometry" />
+    </mxCell>
+    <mxCell id="NEW-GenericRepoImpl" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="BaseRepository&lt;T&gt;&#xa;(Базовий клас)" vertex="1">
+      <mxGeometry height="60" width="180" x="1220" y="560" as="geometry" />
+    </mxCell>
+    <mxCell id="NEW-OwnerRepoImpl" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="OwnerRepository Impl" vertex="1">
+      <mxGeometry height="50" width="150" x="880" y="630" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-31" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="GenerationDbContext" vertex="1">
+      <mxGeometry height="82" width="172" x="1200" y="728" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-33" edge="1" parent="1" source="UNhM223-aSV3cXzMgdKH-20" style="curved=1;startArrow=none;endArrow=block;rounded=0;" target="UNhM223-aSV3cXzMgdKH-23">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-61" edge="1" parent="1" source="UNhM223-aSV3cXzMgdKH-53" style="curved=1;startArrow=none;endArrow=block;rounded=0;" target="UNhM223-aSV3cXzMgdKH-54">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="EDGE-DI-to-Infra" edge="1" parent="1" source="NEW-DI-Setup" style="curved=1;dashed=1;startArrow=none;endArrow=block;rounded=0;" target="UNhM223-aSV3cXzMgdKH-1" value="">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-36" edge="1" parent="1" source="UNhM223-aSV3cXzMgdKH-23" style="curved=1;startArrow=none;endArrow=block;rounded=0;" target="UNhM223-aSV3cXzMgdKH-26">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-37" edge="1" parent="1" source="UNhM223-aSV3cXzMgdKH-23" style="curved=1;startArrow=none;endArrow=block;rounded=0;" target="UNhM223-aSV3cXzMgdKH-28">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-62" edge="1" parent="1" source="UNhM223-aSV3cXzMgdKH-54" style="curved=1;startArrow=none;endArrow=block;rounded=0;" target="UNhM223-aSV3cXzMgdKH-26">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-63" edge="1" parent="1" source="UNhM223-aSV3cXzMgdKH-54" style="curved=1;startArrow=none;endArrow=block;rounded=0;" target="UNhM223-aSV3cXzMgdKH-56">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="EDGE-Owner-Inherits-Generic" edge="1" parent="1" source="NEW-OwnerRepoImpl" style="curved=1;startArrow=none;endArrow=block;endFill=0;rounded=0;" target="NEW-GenericRepoImpl" value="Успадковує">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-41" edge="1" parent="1" source="UNhM223-aSV3cXzMgdKH-29" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" target="UNhM223-aSV3cXzMgdKH-26" value="">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="EDGE-OwnerRepo-Impl" edge="1" parent="1" source="NEW-OwnerRepoImpl" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" target="UNhM223-aSV3cXzMgdKH-56" value="">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="EDGE-GenericRepo-Impl" edge="1" parent="1" source="NEW-GenericRepoImpl" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" target="UNhM223-aSV3cXzMgdKH-28" value="">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-43" edge="1" parent="1" source="UNhM223-aSV3cXzMgdKH-29" style="curved=1;startArrow=none;endArrow=block;rounded=0;" target="UNhM223-aSV3cXzMgdKH-31" value="">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="EDGE-OwnerRepo-To-DB" edge="1" parent="1" source="NEW-OwnerRepoImpl" style="curved=1;startArrow=none;endArrow=block;rounded=0;" target="UNhM223-aSV3cXzMgdKH-31">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-45" edge="1" parent="1" source="UNhM223-aSV3cXzMgdKH-31" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" target="UNhM223-aSV3cXzMgdKH-12" value="">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="UNhM223-aSV3cXzMgdKH-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Шар 3: Core Domain&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+      <mxGeometry height="30" width="280" x="570" y="942" as="geometry" />
+    </mxCell>
+  </root>
+</mxGraphModel>

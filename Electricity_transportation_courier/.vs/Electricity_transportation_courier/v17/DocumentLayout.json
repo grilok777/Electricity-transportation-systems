@@ -1,0 +1,1811 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\webapi\\workers\\generationtogridsyncworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\workers\\generationtogridsyncworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\webapi\\extensions\\idfromjwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\extensions\\idfromjwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\webapi\\extensions\\dependencyinjectionsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\extensions\\dependencyinjectionsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\webapi\\controllers\\synccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\synccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\webapi\\controllers\\substationlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\substationlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\webapi\\controllers\\substationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\substationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\webapi\\controllers\\powerplantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\powerplantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\webapi\\controllers\\ownerdealcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\ownerdealcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|d:\\mysor2\\practice\\electricity_transportation_courier\\webapi\\controllers\\operatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\operatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\webapi\\controllers\\griddatetimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\griddatetimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\webapi\\controllers\\forecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\forecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\webapi\\controllers\\availablepowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\availablepowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A210AE7-E9F6-4DDB-80DF-F3554382F1A8}|Infrastructure\\Infrastructure.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\infrastructure\\security\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A210AE7-E9F6-4DDB-80DF-F3554382F1A8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\security\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A210AE7-E9F6-4DDB-80DF-F3554382F1A8}|Infrastructure\\Infrastructure.csproj|d:\\mysor2\\practice\\electricity_transportation_courier\\infrastructure\\security\\bcryptpasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A210AE7-E9F6-4DDB-80DF-F3554382F1A8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\security\\bcryptpasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A210AE7-E9F6-4DDB-80DF-F3554382F1A8}|Infrastructure\\Infrastructure.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\infrastructure\\repositories\\operatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A210AE7-E9F6-4DDB-80DF-F3554382F1A8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\operatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A210AE7-E9F6-4DDB-80DF-F3554382F1A8}|Infrastructure\\Infrastructure.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\infrastructure\\repositories\\gridunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A210AE7-E9F6-4DDB-80DF-F3554382F1A8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\gridunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A210AE7-E9F6-4DDB-80DF-F3554382F1A8}|Infrastructure\\Infrastructure.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A210AE7-E9F6-4DDB-80DF-F3554382F1A8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A210AE7-E9F6-4DDB-80DF-F3554382F1A8}|Infrastructure\\Infrastructure.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\infrastructure\\data\\griddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A210AE7-E9F6-4DDB-80DF-F3554382F1A8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\griddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\domain\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\domain\\interfaces\\ioperatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ioperatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\domain\\interfaces\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\domain\\interfaces\\igridunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\igridunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\domain\\enum\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|solutionrelative:domain\\enum\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\domain\\enum\\daystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|solutionrelative:domain\\enum\\daystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\domain\\enum\\planttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|solutionrelative:domain\\enum\\planttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\domain\\entities\\temp_needforhourline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\temp_needforhourline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\domain\\entities\\substationline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\substationline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\domain\\entities\\substation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\substation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\domain\\entities\\powerplantday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\powerplantday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\domain\\entities\\powerplant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\powerplant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\domain\\entities\\ownerdeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\ownerdeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\domain\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\domain\\entities\\hourdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\hourdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\domain\\entities\\griddatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\griddatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\domain\\entities\\availablepower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F834DF52-1A23-4251-9FDB-7375554362EC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\availablepower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\substations\\update\\updatesubstationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\substations\\update\\updatesubstationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\substations\\update\\updatesubstationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\substations\\update\\updatesubstationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\substations\\shared\\substationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\substations\\shared\\substationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\substations\\queries\\searchsubstationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\substations\\queries\\searchsubstationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\substations\\queries\\getsubstationbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\substations\\queries\\getsubstationbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\substations\\queries\\getallsubstationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\substations\\queries\\getallsubstationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\substations\\delete\\deletesubstationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\substations\\delete\\deletesubstationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\substations\\create\\createsubstationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\substations\\create\\createsubstationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\substations\\create\\createsubstationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\substations\\create\\createsubstationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\substationlines\\update\\updatesubstationlinevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\substationlines\\update\\updatesubstationlinevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\substationlines\\update\\updatesubstationlinecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\substationlines\\update\\updatesubstationlinecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\substationlines\\shared\\substationlinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\substationlines\\shared\\substationlinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\substationlines\\queries\\searchsubstationlinesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\substationlines\\queries\\searchsubstationlinesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\substationlines\\queries\\getsubstationlinebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\substationlines\\queries\\getsubstationlinebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\substationlines\\queries\\getallsubstationlinesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\substationlines\\queries\\getallsubstationlinesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\substationlines\\delete\\deletesubstationlinecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\substationlines\\delete\\deletesubstationlinecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\substationlines\\create\\createsubstationlinevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\substationlines\\create\\createsubstationlinevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\substationlines\\create\\createsubstationlinecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\substationlines\\create\\createsubstationlinecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\powerplants\\update\\updatepowerplantcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\powerplants\\update\\updatepowerplantcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\powerplants\\update\\updatepowerplantvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\powerplants\\update\\updatepowerplantvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\powerplants\\shared\\powerplantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\powerplants\\shared\\powerplantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\powerplants\\queries\\searchpowerplantsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\powerplants\\queries\\searchpowerplantsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\powerplants\\queries\\getpowerplantbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\powerplants\\queries\\getpowerplantbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\powerplants\\delete\\deletepowerplantcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\powerplants\\delete\\deletepowerplantcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\powerplants\\create\\createpowerplantvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\powerplants\\create\\createpowerplantvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\powerplants\\create\\createpowerplantcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\powerplants\\create\\createpowerplantcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\ownerdeals\\update\\updateownerdealvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\ownerdeals\\update\\updateownerdealvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\ownerdeals\\update\\updateownerdealcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\ownerdeals\\update\\updateownerdealcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\ownerdeals\\shared\\ownerdealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\ownerdeals\\shared\\ownerdealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\ownerdeals\\queries\\searchownerdealsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\ownerdeals\\queries\\searchownerdealsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\ownerdeals\\queries\\getownerdealbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\ownerdeals\\queries\\getownerdealbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\ownerdeals\\delete\\deleteownerdealcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\ownerdeals\\delete\\deleteownerdealcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\ownerdeals\\create\\createownerdealvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\ownerdeals\\create\\createownerdealvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\ownerdeals\\create\\createownerdealcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\ownerdeals\\create\\createownerdealcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\operators\\queries\\getalloperatorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\operators\\queries\\getalloperatorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\operators\\queries\\authenticateoperatorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\operators\\queries\\authenticateoperatorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\operators\\delete\\deleteoperatorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\operators\\delete\\deleteoperatorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\operators\\create\\createoperatorvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\operators\\create\\createoperatorvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\operators\\create\\createoperatorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\operators\\create\\createoperatorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\griddatetimes\\update\\updategriddatetimevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\griddatetimes\\update\\updategriddatetimevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\griddatetimes\\update\\updategriddatetimecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\griddatetimes\\update\\updategriddatetimecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\griddatetimes\\shared\\griddatetimedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\griddatetimes\\shared\\griddatetimedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\griddatetimes\\queries\\searchgriddatetimesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\griddatetimes\\queries\\searchgriddatetimesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\griddatetimes\\queries\\getgriddatetimebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\griddatetimes\\queries\\getgriddatetimebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\griddatetimes\\queries\\getallgriddatetimesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\griddatetimes\\queries\\getallgriddatetimesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\griddatetimes\\delete\\deletegriddatetimecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\griddatetimes\\delete\\deletegriddatetimecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\griddatetimes\\create\\creategriddatetimevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\griddatetimes\\create\\creategriddatetimevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\griddatetimes\\create\\creategriddatetimecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\griddatetimes\\create\\creategriddatetimecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\forecasts\\update\\updateforecaststatusvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\forecasts\\update\\updateforecaststatusvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\forecasts\\update\\updateforecaststatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\forecasts\\update\\updateforecaststatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\forecasts\\shared\\hourdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\forecasts\\shared\\hourdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\forecasts\\shared\\forecastdaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\forecasts\\shared\\forecastdaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\forecasts\\queries\\searchforecastsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\forecasts\\queries\\searchforecastsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\forecasts\\queries\\getforecastbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\forecasts\\queries\\getforecastbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\availablepowers\\update\\updateavailablepowervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\availablepowers\\update\\updateavailablepowervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\availablepowers\\update\\updateavailablepowercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\availablepowers\\update\\updateavailablepowercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\availablepowers\\shared\\availablepowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\availablepowers\\shared\\availablepowerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\availablepowers\\queries\\searchavailablepowerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\availablepowers\\queries\\searchavailablepowerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\availablepowers\\queries\\getavailablepowerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\availablepowers\\queries\\getavailablepowerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\availablepowers\\delete\\deleteavailablepowercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\availablepowers\\delete\\deleteavailablepowercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\availablepowers\\create\\createavailablepowervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\availablepowers\\create\\createavailablepowervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\availablepowers\\create\\createavailablepowercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\availablepowers\\create\\createavailablepowercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GridSystemDb/True/SqlTable/dbo.Operators.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E5F7073-BCE8-4671-905B-09F897ED8D70}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\operators\\update\\updateoperatorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\operators\\update\\updateoperatorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\operators\\shared\\operatordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\operators\\shared\\operatordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\features\\operators\\shared\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\features\\operators\\shared\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C6B2E-7052-4769-8A65-4799D8041195}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A210AE7-E9F6-4DDB-80DF-F3554382F1A8}|Infrastructure\\Infrastructure.csproj|D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Infrastructure\\Migrations\\20260514104758_InitialGridArchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A210AE7-E9F6-4DDB-80DF-F3554382F1A8}|Infrastructure\\Infrastructure.csproj|solutionrelative:Infrastructure\\Migrations\\20260514104758_InitialGridArchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubstationLineController.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Controllers\\SubstationLineController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\SubstationLineController.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Controllers\\SubstationLineController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\SubstationLineController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAwwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:07:49.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SyncController.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Controllers\\SyncController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\SyncController.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Controllers\\SyncController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\SyncController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T13:45:13.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjectionSetup.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Extensions\\DependencyInjectionSetup.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Extensions\\DependencyInjectionSetup.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Extensions\\DependencyInjectionSetup.cs",
+              "RelativeToolTip": "WebAPI\\Extensions\\DependencyInjectionSetup.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:35:41.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDFromJWTToken.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Extensions\\IDFromJWTToken.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Extensions\\IDFromJWTToken.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Extensions\\IDFromJWTToken.cs",
+              "RelativeToolTip": "WebAPI\\Extensions\\IDFromJWTToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:35:55.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenerationToGridSyncWorker.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Workers\\GenerationToGridSyncWorker.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Workers\\GenerationToGridSyncWorker.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Workers\\GenerationToGridSyncWorker.cs",
+              "RelativeToolTip": "WebAPI\\Workers\\GenerationToGridSyncWorker.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAYwFYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T07:26:37.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAwwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T10:45:04.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubstationController.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Controllers\\SubstationController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\SubstationController.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Controllers\\SubstationController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\SubstationController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowDkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:42:19.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PowerPlantController.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Controllers\\PowerPlantController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\PowerPlantController.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Controllers\\PowerPlantController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\PowerPlantController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T10:07:32.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OwnerDealController.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Controllers\\OwnerDealController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\OwnerDealController.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Controllers\\OwnerDealController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\OwnerDealController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:30:07.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OperatorController.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Controllers\\OperatorController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\OperatorController.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Controllers\\OperatorController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\OperatorController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowCIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:46:02.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GridDatetimeController.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Controllers\\GridDatetimeController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\GridDatetimeController.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Controllers\\GridDatetimeController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\GridDatetimeController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T05:50:41.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ForecastController.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Controllers\\ForecastController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ForecastController.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Controllers\\ForecastController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ForecastController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:38:29.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AvailablePowerController.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Controllers\\AvailablePowerController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AvailablePowerController.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\Controllers\\AvailablePowerController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AvailablePowerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:22:05.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Infrastructure\\Security\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Security\\JwtProvider.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Infrastructure\\Security\\JwtProvider.cs",
+              "RelativeToolTip": "Infrastructure\\Security\\JwtProvider.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:31:46.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BcryptPasswordHasher.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Infrastructure\\Security\\BcryptPasswordHasher.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Security\\BcryptPasswordHasher.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Infrastructure\\Security\\BcryptPasswordHasher.cs",
+              "RelativeToolTip": "Infrastructure\\Security\\BcryptPasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T10:52:21.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GridUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Infrastructure\\Repositories\\GridUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\GridUnitOfWork.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Infrastructure\\Repositories\\GridUnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\GridUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:37:01.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Infrastructure\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\BaseRepository.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Infrastructure\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:33:16.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GridDBContext.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Infrastructure\\Data\\GridDBContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\GridDBContext.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Infrastructure\\Data\\GridDBContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\GridDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:05:46.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Interfaces\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IPasswordHasher.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Interfaces\\IPasswordHasher.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IPasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:28:51.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IOperatorRepository.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Interfaces\\IOperatorRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IOperatorRepository.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Interfaces\\IOperatorRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IOperatorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:34:10.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Interfaces\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IJwtProvider.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Interfaces\\IJwtProvider.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IJwtProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:52:44.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OperatorRepository.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Infrastructure\\Repositories\\OperatorRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\OperatorRepository.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Infrastructure\\Repositories\\OperatorRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\OperatorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:34:44.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IGridUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Interfaces\\IGridUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IGridUnitOfWork.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Interfaces\\IGridUnitOfWork.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IGridUnitOfWork.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:35:40.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:32:10.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Enum\\Status.cs",
+              "RelativeDocumentMoniker": "Domain\\Enum\\Status.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Enum\\Status.cs",
+              "RelativeToolTip": "Domain\\Enum\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T08:07:09.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DayStatus.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Enum\\DayStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Enum\\DayStatus.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Enum\\DayStatus.cs",
+              "RelativeToolTip": "Domain\\Enum\\DayStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T08:08:12.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlantType.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Enum\\PlantType.cs",
+              "RelativeDocumentMoniker": "Domain\\Enum\\PlantType.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Enum\\PlantType.cs",
+              "RelativeToolTip": "Domain\\Enum\\PlantType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T08:05:51.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "temp_NeedForHourLine.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\temp_NeedForHourLine.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\temp_NeedForHourLine.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\temp_NeedForHourLine.cs",
+              "RelativeToolTip": "Domain\\Entities\\temp_NeedForHourLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T07:56:04.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SubstationLine.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\SubstationLine.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\SubstationLine.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\SubstationLine.cs",
+              "RelativeToolTip": "Domain\\Entities\\SubstationLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T07:54:24.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Substation.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\Substation.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Substation.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\Substation.cs",
+              "RelativeToolTip": "Domain\\Entities\\Substation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T07:52:54.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PowerPlantDay.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\PowerPlantDay.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\PowerPlantDay.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\PowerPlantDay.cs",
+              "RelativeToolTip": "Domain\\Entities\\PowerPlantDay.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowBoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T08:07:45.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PowerPlant.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\PowerPlant.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\PowerPlant.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\PowerPlant.cs",
+              "RelativeToolTip": "Domain\\Entities\\PowerPlant.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T08:01:33.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OwnerDeal.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\OwnerDeal.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\OwnerDeal.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\OwnerDeal.cs",
+              "RelativeToolTip": "Domain\\Entities\\OwnerDeal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T08:00:49.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Operator.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\Operator.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Operator.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\Operator.cs",
+              "RelativeToolTip": "Domain\\Entities\\Operator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T07:50:33.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HourData.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\HourData.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\HourData.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\HourData.cs",
+              "RelativeToolTip": "Domain\\Entities\\HourData.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T08:00:29.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GridDatetime.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\GridDatetime.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\GridDatetime.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\GridDatetime.cs",
+              "RelativeToolTip": "Domain\\Entities\\GridDatetime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T07:55:30.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AvailablePower.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\AvailablePower.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\AvailablePower.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Domain\\Entities\\AvailablePower.cs",
+              "RelativeToolTip": "Domain\\Entities\\AvailablePower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T07:56:31.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UpdateSubstationValidator.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Substations\\Update\\UpdateSubstationValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Substations\\Update\\UpdateSubstationValidator.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Substations\\Update\\UpdateSubstationValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Substations\\Update\\UpdateSubstationValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:39:28.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateSubstationCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Substations\\Update\\UpdateSubstationCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Substations\\Update\\UpdateSubstationCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Substations\\Update\\UpdateSubstationCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Substations\\Update\\UpdateSubstationCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:38:15.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SubstationDto.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Substations\\Shared\\SubstationDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Substations\\Shared\\SubstationDto.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Substations\\Shared\\SubstationDto.cs",
+              "RelativeToolTip": "Application\\Features\\Substations\\Shared\\SubstationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:32:29.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SearchSubstationsQuery.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Substations\\Queries\\SearchSubstationsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Substations\\Queries\\SearchSubstationsQuery.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Substations\\Queries\\SearchSubstationsQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Substations\\Queries\\SearchSubstationsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:41:23.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetSubstationByIdQuery.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Substations\\Queries\\GetSubstationByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Substations\\Queries\\GetSubstationByIdQuery.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Substations\\Queries\\GetSubstationByIdQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Substations\\Queries\\GetSubstationByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:40:36.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GetAllSubstationsQuery.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Substations\\Queries\\GetAllSubstationsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Substations\\Queries\\GetAllSubstationsQuery.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Substations\\Queries\\GetAllSubstationsQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Substations\\Queries\\GetAllSubstationsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:41:01.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DeleteSubstationCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Substations\\Delete\\DeleteSubstationCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Substations\\Delete\\DeleteSubstationCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Substations\\Delete\\DeleteSubstationCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Substations\\Delete\\DeleteSubstationCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:40:00.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreateSubstationValidator.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Substations\\Create\\CreateSubstationValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Substations\\Create\\CreateSubstationValidator.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Substations\\Create\\CreateSubstationValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Substations\\Create\\CreateSubstationValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:37:39.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CreateSubstationCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Substations\\Create\\CreateSubstationCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Substations\\Create\\CreateSubstationCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Substations\\Create\\CreateSubstationCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Substations\\Create\\CreateSubstationCommand.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:33:15.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UpdateSubstationLineValidator.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\SubstationLines\\Update\\UpdateSubstationLineValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\SubstationLines\\Update\\UpdateSubstationLineValidator.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\SubstationLines\\Update\\UpdateSubstationLineValidator.cs",
+              "RelativeToolTip": "Application\\Features\\SubstationLines\\Update\\UpdateSubstationLineValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:03:50.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UpdateSubstationLineCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\SubstationLines\\Update\\UpdateSubstationLineCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\SubstationLines\\Update\\UpdateSubstationLineCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\SubstationLines\\Update\\UpdateSubstationLineCommand.cs",
+              "RelativeToolTip": "Application\\Features\\SubstationLines\\Update\\UpdateSubstationLineCommand.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:03:22.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SubstationLineDto.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\SubstationLines\\Shared\\SubstationLineDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\SubstationLines\\Shared\\SubstationLineDto.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\SubstationLines\\Shared\\SubstationLineDto.cs",
+              "RelativeToolTip": "Application\\Features\\SubstationLines\\Shared\\SubstationLineDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:02:11.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SearchSubstationLinesQuery.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\SubstationLines\\Queries\\SearchSubstationLinesQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\SubstationLines\\Queries\\SearchSubstationLinesQuery.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\SubstationLines\\Queries\\SearchSubstationLinesQuery.cs",
+              "RelativeToolTip": "Application\\Features\\SubstationLines\\Queries\\SearchSubstationLinesQuery.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAewBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:01:09.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GetSubstationLineByIdQuery.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\SubstationLines\\Queries\\GetSubstationLineByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\SubstationLines\\Queries\\GetSubstationLineByIdQuery.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\SubstationLines\\Queries\\GetSubstationLineByIdQuery.cs",
+              "RelativeToolTip": "Application\\Features\\SubstationLines\\Queries\\GetSubstationLineByIdQuery.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:04:47.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GetAllSubstationLinesQuery.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\SubstationLines\\Queries\\GetAllSubstationLinesQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\SubstationLines\\Queries\\GetAllSubstationLinesQuery.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\SubstationLines\\Queries\\GetAllSubstationLinesQuery.cs",
+              "RelativeToolTip": "Application\\Features\\SubstationLines\\Queries\\GetAllSubstationLinesQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:04:46.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DeleteSubstationLineCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\SubstationLines\\Delete\\DeleteSubstationLineCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\SubstationLines\\Delete\\DeleteSubstationLineCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\SubstationLines\\Delete\\DeleteSubstationLineCommand.cs",
+              "RelativeToolTip": "Application\\Features\\SubstationLines\\Delete\\DeleteSubstationLineCommand.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:04:45.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CreateSubstationLineValidator.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\SubstationLines\\Create\\CreateSubstationLineValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\SubstationLines\\Create\\CreateSubstationLineValidator.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\SubstationLines\\Create\\CreateSubstationLineValidator.cs",
+              "RelativeToolTip": "Application\\Features\\SubstationLines\\Create\\CreateSubstationLineValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:02:58.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CreateSubstationLineCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\SubstationLines\\Create\\CreateSubstationLineCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\SubstationLines\\Create\\CreateSubstationLineCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\SubstationLines\\Create\\CreateSubstationLineCommand.cs",
+              "RelativeToolTip": "Application\\Features\\SubstationLines\\Create\\CreateSubstationLineCommand.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBAAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:01:45.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UpdatePowerPlantCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\PowerPlants\\Update\\UpdatePowerPlantCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\PowerPlants\\Update\\UpdatePowerPlantCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\PowerPlants\\Update\\UpdatePowerPlantCommand.cs",
+              "RelativeToolTip": "Application\\Features\\PowerPlants\\Update\\UpdatePowerPlantCommand.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T10:03:57.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UpdatePowerPlantValidator.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\PowerPlants\\Update\\UpdatePowerPlantValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\PowerPlants\\Update\\UpdatePowerPlantValidator.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\PowerPlants\\Update\\UpdatePowerPlantValidator.cs",
+              "RelativeToolTip": "Application\\Features\\PowerPlants\\Update\\UpdatePowerPlantValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T10:05:11.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PowerPlantDto.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\PowerPlants\\Shared\\PowerPlantDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\PowerPlants\\Shared\\PowerPlantDto.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\PowerPlants\\Shared\\PowerPlantDto.cs",
+              "RelativeToolTip": "Application\\Features\\PowerPlants\\Shared\\PowerPlantDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:59:46.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SearchPowerPlantsQuery.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\PowerPlants\\Queries\\SearchPowerPlantsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\PowerPlants\\Queries\\SearchPowerPlantsQuery.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\PowerPlants\\Queries\\SearchPowerPlantsQuery.cs",
+              "RelativeToolTip": "Application\\Features\\PowerPlants\\Queries\\SearchPowerPlantsQuery.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T10:06:35.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "GetPowerPlantByIdQuery.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\PowerPlants\\Queries\\GetPowerPlantByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\PowerPlants\\Queries\\GetPowerPlantByIdQuery.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\PowerPlants\\Queries\\GetPowerPlantByIdQuery.cs",
+              "RelativeToolTip": "Application\\Features\\PowerPlants\\Queries\\GetPowerPlantByIdQuery.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T10:06:17.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DeletePowerPlantCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\PowerPlants\\Delete\\DeletePowerPlantCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\PowerPlants\\Delete\\DeletePowerPlantCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\PowerPlants\\Delete\\DeletePowerPlantCommand.cs",
+              "RelativeToolTip": "Application\\Features\\PowerPlants\\Delete\\DeletePowerPlantCommand.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T10:05:35.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CreatePowerPlantValidator.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\PowerPlants\\Create\\CreatePowerPlantValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\PowerPlants\\Create\\CreatePowerPlantValidator.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\PowerPlants\\Create\\CreatePowerPlantValidator.cs",
+              "RelativeToolTip": "Application\\Features\\PowerPlants\\Create\\CreatePowerPlantValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T10:03:43.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CreatePowerPlantCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\PowerPlants\\Create\\CreatePowerPlantCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\PowerPlants\\Create\\CreatePowerPlantCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\PowerPlants\\Create\\CreatePowerPlantCommand.cs",
+              "RelativeToolTip": "Application\\Features\\PowerPlants\\Create\\CreatePowerPlantCommand.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T10:00:15.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UpdateOwnerDealValidator.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\OwnerDeals\\Update\\UpdateOwnerDealValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\OwnerDeals\\Update\\UpdateOwnerDealValidator.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\OwnerDeals\\Update\\UpdateOwnerDealValidator.cs",
+              "RelativeToolTip": "Application\\Features\\OwnerDeals\\Update\\UpdateOwnerDealValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:26:53.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UpdateOwnerDealCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\OwnerDeals\\Update\\UpdateOwnerDealCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\OwnerDeals\\Update\\UpdateOwnerDealCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\OwnerDeals\\Update\\UpdateOwnerDealCommand.cs",
+              "RelativeToolTip": "Application\\Features\\OwnerDeals\\Update\\UpdateOwnerDealCommand.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:25:17.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "OwnerDealDto.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\OwnerDeals\\Shared\\OwnerDealDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\OwnerDeals\\Shared\\OwnerDealDto.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\OwnerDeals\\Shared\\OwnerDealDto.cs",
+              "RelativeToolTip": "Application\\Features\\OwnerDeals\\Shared\\OwnerDealDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:06:07.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "SearchOwnerDealsQuery.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\OwnerDeals\\Queries\\SearchOwnerDealsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\OwnerDeals\\Queries\\SearchOwnerDealsQuery.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\OwnerDeals\\Queries\\SearchOwnerDealsQuery.cs",
+              "RelativeToolTip": "Application\\Features\\OwnerDeals\\Queries\\SearchOwnerDealsQuery.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwBQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:28:07.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "GetOwnerDealByIdQuery.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\OwnerDeals\\Queries\\GetOwnerDealByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\OwnerDeals\\Queries\\GetOwnerDealByIdQuery.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\OwnerDeals\\Queries\\GetOwnerDealByIdQuery.cs",
+              "RelativeToolTip": "Application\\Features\\OwnerDeals\\Queries\\GetOwnerDealByIdQuery.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:27:40.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "DeleteOwnerDealCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\OwnerDeals\\Delete\\DeleteOwnerDealCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\OwnerDeals\\Delete\\DeleteOwnerDealCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\OwnerDeals\\Delete\\DeleteOwnerDealCommand.cs",
+              "RelativeToolTip": "Application\\Features\\OwnerDeals\\Delete\\DeleteOwnerDealCommand.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:24:50.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "CreateOwnerDealValidator.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\OwnerDeals\\Create\\CreateOwnerDealValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\OwnerDeals\\Create\\CreateOwnerDealValidator.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\OwnerDeals\\Create\\CreateOwnerDealValidator.cs",
+              "RelativeToolTip": "Application\\Features\\OwnerDeals\\Create\\CreateOwnerDealValidator.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:07:48.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CreateOwnerDealCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\OwnerDeals\\Create\\CreateOwnerDealCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\OwnerDeals\\Create\\CreateOwnerDealCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\OwnerDeals\\Create\\CreateOwnerDealCommand.cs",
+              "RelativeToolTip": "Application\\Features\\OwnerDeals\\Create\\CreateOwnerDealCommand.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:06:32.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "GetAllOperatorsQuery.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Operators\\Queries\\GetAllOperatorsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Operators\\Queries\\GetAllOperatorsQuery.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Operators\\Queries\\GetAllOperatorsQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Operators\\Queries\\GetAllOperatorsQuery.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:44:18.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "AuthenticateOperatorQuery.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Operators\\Queries\\AuthenticateOperatorQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Operators\\Queries\\AuthenticateOperatorQuery.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Operators\\Queries\\AuthenticateOperatorQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Operators\\Queries\\AuthenticateOperatorQuery.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:44:56.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "DeleteOperatorCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Operators\\Delete\\DeleteOperatorCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Operators\\Delete\\DeleteOperatorCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Operators\\Delete\\DeleteOperatorCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Operators\\Delete\\DeleteOperatorCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:43:13.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CreateOperatorValidator.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Operators\\Create\\CreateOperatorValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Operators\\Create\\CreateOperatorValidator.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Operators\\Create\\CreateOperatorValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Operators\\Create\\CreateOperatorValidator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:41:21.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "CreateOperatorCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Operators\\Create\\CreateOperatorCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Operators\\Create\\CreateOperatorCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Operators\\Create\\CreateOperatorCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Operators\\Create\\CreateOperatorCommand.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:28:10.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "UpdateGridDatetimeValidator.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\GridDatetimes\\Update\\UpdateGridDatetimeValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\GridDatetimes\\Update\\UpdateGridDatetimeValidator.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\GridDatetimes\\Update\\UpdateGridDatetimeValidator.cs",
+              "RelativeToolTip": "Application\\Features\\GridDatetimes\\Update\\UpdateGridDatetimeValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T05:43:07.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "UpdateGridDatetimeCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\GridDatetimes\\Update\\UpdateGridDatetimeCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\GridDatetimes\\Update\\UpdateGridDatetimeCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\GridDatetimes\\Update\\UpdateGridDatetimeCommand.cs",
+              "RelativeToolTip": "Application\\Features\\GridDatetimes\\Update\\UpdateGridDatetimeCommand.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA9wBEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T05:42:15.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "GridDatetimeDto.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\GridDatetimes\\Shared\\GridDatetimeDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\GridDatetimes\\Shared\\GridDatetimeDto.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\GridDatetimes\\Shared\\GridDatetimeDto.cs",
+              "RelativeToolTip": "Application\\Features\\GridDatetimes\\Shared\\GridDatetimeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T05:38:52.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "SearchGridDatetimesQuery.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\GridDatetimes\\Queries\\SearchGridDatetimesQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\GridDatetimes\\Queries\\SearchGridDatetimesQuery.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\GridDatetimes\\Queries\\SearchGridDatetimesQuery.cs",
+              "RelativeToolTip": "Application\\Features\\GridDatetimes\\Queries\\SearchGridDatetimesQuery.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T05:46:56.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "GetGridDatetimeByIdQuery.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\GridDatetimes\\Queries\\GetGridDatetimeByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\GridDatetimes\\Queries\\GetGridDatetimeByIdQuery.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\GridDatetimes\\Queries\\GetGridDatetimeByIdQuery.cs",
+              "RelativeToolTip": "Application\\Features\\GridDatetimes\\Queries\\GetGridDatetimeByIdQuery.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T05:45:23.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "GetAllGridDatetimesQuery.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\GridDatetimes\\Queries\\GetAllGridDatetimesQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\GridDatetimes\\Queries\\GetAllGridDatetimesQuery.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\GridDatetimes\\Queries\\GetAllGridDatetimesQuery.cs",
+              "RelativeToolTip": "Application\\Features\\GridDatetimes\\Queries\\GetAllGridDatetimesQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T05:45:46.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "DeleteGridDatetimeCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\GridDatetimes\\Delete\\DeleteGridDatetimeCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\GridDatetimes\\Delete\\DeleteGridDatetimeCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\GridDatetimes\\Delete\\DeleteGridDatetimeCommand.cs",
+              "RelativeToolTip": "Application\\Features\\GridDatetimes\\Delete\\DeleteGridDatetimeCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T05:44:34.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "CreateGridDatetimeValidator.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\GridDatetimes\\Create\\CreateGridDatetimeValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\GridDatetimes\\Create\\CreateGridDatetimeValidator.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\GridDatetimes\\Create\\CreateGridDatetimeValidator.cs",
+              "RelativeToolTip": "Application\\Features\\GridDatetimes\\Create\\CreateGridDatetimeValidator.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T05:40:59.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "CreateGridDatetimeCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\GridDatetimes\\Create\\CreateGridDatetimeCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\GridDatetimes\\Create\\CreateGridDatetimeCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\GridDatetimes\\Create\\CreateGridDatetimeCommand.cs",
+              "RelativeToolTip": "Application\\Features\\GridDatetimes\\Create\\CreateGridDatetimeCommand.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowBEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T05:40:13.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "UpdateForecastStatusValidator.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Forecasts\\Update\\UpdateForecastStatusValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Forecasts\\Update\\UpdateForecastStatusValidator.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Forecasts\\Update\\UpdateForecastStatusValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Forecasts\\Update\\UpdateForecastStatusValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:35:34.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "UpdateForecastStatusCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Forecasts\\Update\\UpdateForecastStatusCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Forecasts\\Update\\UpdateForecastStatusCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Forecasts\\Update\\UpdateForecastStatusCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Forecasts\\Update\\UpdateForecastStatusCommand.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:34:45.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "HourDataDto.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Forecasts\\Shared\\HourDataDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Forecasts\\Shared\\HourDataDto.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Forecasts\\Shared\\HourDataDto.cs",
+              "RelativeToolTip": "Application\\Features\\Forecasts\\Shared\\HourDataDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:31:40.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ForecastDayDto.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Forecasts\\Shared\\ForecastDayDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Forecasts\\Shared\\ForecastDayDto.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Forecasts\\Shared\\ForecastDayDto.cs",
+              "RelativeToolTip": "Application\\Features\\Forecasts\\Shared\\ForecastDayDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:31:30.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "SearchForecastsQuery.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Forecasts\\Queries\\SearchForecastsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Forecasts\\Queries\\SearchForecastsQuery.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Forecasts\\Queries\\SearchForecastsQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Forecasts\\Queries\\SearchForecastsQuery.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:36:52.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "GetForecastByIdQuery.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Forecasts\\Queries\\GetForecastByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Forecasts\\Queries\\GetForecastByIdQuery.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Forecasts\\Queries\\GetForecastByIdQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Forecasts\\Queries\\GetForecastByIdQuery.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:36:08.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "UpdateAvailablePowerValidator.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\AvailablePowers\\Update\\UpdateAvailablePowerValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\AvailablePowers\\Update\\UpdateAvailablePowerValidator.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\AvailablePowers\\Update\\UpdateAvailablePowerValidator.cs",
+              "RelativeToolTip": "Application\\Features\\AvailablePowers\\Update\\UpdateAvailablePowerValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:18:03.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "UpdateAvailablePowerCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\AvailablePowers\\Update\\UpdateAvailablePowerCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\AvailablePowers\\Update\\UpdateAvailablePowerCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\AvailablePowers\\Update\\UpdateAvailablePowerCommand.cs",
+              "RelativeToolTip": "Application\\Features\\AvailablePowers\\Update\\UpdateAvailablePowerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:17:04.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "AvailablePowerDto.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\AvailablePowers\\Shared\\AvailablePowerDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\AvailablePowers\\Shared\\AvailablePowerDto.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\AvailablePowers\\Shared\\AvailablePowerDto.cs",
+              "RelativeToolTip": "Application\\Features\\AvailablePowers\\Shared\\AvailablePowerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:09:44.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "SearchAvailablePowerQuery.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\AvailablePowers\\Queries\\SearchAvailablePowerQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\AvailablePowers\\Queries\\SearchAvailablePowerQuery.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\AvailablePowers\\Queries\\SearchAvailablePowerQuery.cs",
+              "RelativeToolTip": "Application\\Features\\AvailablePowers\\Queries\\SearchAvailablePowerQuery.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:20:33.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "GetAvailablePowerByIdQuery.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\AvailablePowers\\Queries\\GetAvailablePowerByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\AvailablePowers\\Queries\\GetAvailablePowerByIdQuery.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\AvailablePowers\\Queries\\GetAvailablePowerByIdQuery.cs",
+              "RelativeToolTip": "Application\\Features\\AvailablePowers\\Queries\\GetAvailablePowerByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:19:41.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "DeleteAvailablePowerCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\AvailablePowers\\Delete\\DeleteAvailablePowerCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\AvailablePowers\\Delete\\DeleteAvailablePowerCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\AvailablePowers\\Delete\\DeleteAvailablePowerCommand.cs",
+              "RelativeToolTip": "Application\\Features\\AvailablePowers\\Delete\\DeleteAvailablePowerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:18:35.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "CreateAvailablePowerValidator.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\AvailablePowers\\Create\\CreateAvailablePowerValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\AvailablePowers\\Create\\CreateAvailablePowerValidator.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\AvailablePowers\\Create\\CreateAvailablePowerValidator.cs",
+              "RelativeToolTip": "Application\\Features\\AvailablePowers\\Create\\CreateAvailablePowerValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:16:23.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "CreateAvailablePowerCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\AvailablePowers\\Create\\CreateAvailablePowerCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\AvailablePowers\\Create\\CreateAvailablePowerCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\AvailablePowers\\Create\\CreateAvailablePowerCommand.cs",
+              "RelativeToolTip": "Application\\Features\\AvailablePowers\\Create\\CreateAvailablePowerCommand.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:14:44.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "dbo.Operators [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GridSystemDb/True/SqlTable/dbo.Operators.sql",
+              "ToolTip": "dbo.Operators [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-14T13:42:07.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "20260514104758_InitialGridArchitecture.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Infrastructure\\Migrations\\20260514104758_InitialGridArchitecture.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20260514104758_InitialGridArchitecture.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Infrastructure\\Migrations\\20260514104758_InitialGridArchitecture.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20260514104758_InitialGridArchitecture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T10:47:59.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-14T10:46:17.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "UpdateOperatorCommand.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Operators\\Update\\UpdateOperatorCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Operators\\Update\\UpdateOperatorCommand.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Operators\\Update\\UpdateOperatorCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Operators\\Update\\UpdateOperatorCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:42:29.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "OperatorDto.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Operators\\Shared\\OperatorDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Operators\\Shared\\OperatorDto.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Operators\\Shared\\OperatorDto.cs",
+              "RelativeToolTip": "Application\\Features\\Operators\\Shared\\OperatorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:26:48.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Operators\\Shared\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Operators\\Shared\\LoginResponseDto.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Features\\Operators\\Shared\\LoginResponseDto.cs",
+              "RelativeToolTip": "Application\\Features\\Operators\\Shared\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:27:09.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Application\\Class1.cs",
+              "ToolTip": "D:\\Mysor2\\Practice\\Electricity_transportation_courier\\Application\\Class1.cs",
+              "RelativeToolTip": "Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T07:42:38.657Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

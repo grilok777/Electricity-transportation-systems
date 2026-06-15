@@ -1,0 +1,191 @@
+1. appsettings.json (Коренева папка)
+Тут лежить конфігурація та рядок підключення.
+
+JSON
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "GenerationDatabase": "Server=ВАШ_СЕРВЕР;Database=GenerationDB;Trusted_Connection=True;TrustServerCertificate=True;"
+  }
+}
+2. Extensions/DependencyInjectionSetup.cs
+Цей файл збирає всі наші шари до купи. Саме тут відбувається "магія", яка дозволяє Program.cs залишатися чистим.
+
+C#
+using Application.Services; // Змініть на GenerationService.Application.Services, якщо перейменували проєкти
+using Domain.Interfaces;
+using Infrastructure.Data;
+using Infrastructure.Repositories;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+
+namespace WebAPI.Extensions
+{
+    public static class DependencyInjectionSetup
+    {
+        public static IServiceCollection AddGenerationServices(this IServiceCollection services, IConfiguration configuration)
+        {
+            // 1. Підключаємо БД і кажемо, що міграції лежать у проєкті Infrastructure
+            services.AddDbContext<GenerationDbContext>(options =>
+                options.UseSqlServer(
+                    configuration.GetConnectionString("GenerationDatabase"),
+                    b => b.MigrationsAssembly("Infrastructure") // Або "GenerationService.Infrastructure"
+                ));
+
+            // 2. Реєструємо Інфраструктуру
+            services.AddScoped(typeof(IBaseRepository<>), typeof(BaseRepository<>));
+            services.AddScoped<IOwnerRepository, OwnerRepository>();
+            services.AddScoped<IGenerationUnitOfWork, GenerationUnitOfWork>();
+
+            // 3. Реєструємо Бізнес-логіку
+            services.AddScoped<OwnerService>();
+            services.AddScoped<GenerationServiceClass>();
+
+            return services;
+        }
+    }
+}
+3. Program.cs (Коренева папка)
+Точка входу.
+
+C#
+using WebAPI.Extensions;
+
+var builder = WebApplication.CreateBuilder(args);
+
+// Додаємо контролери
+builder.Services.AddControllers();
+
+// Додаємо Swagger (зручна сторінка для тестування API)
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+// ВИКЛИКАЄМО НАШ МЕТОД З Extensions
+builder.Services.AddGenerationServices(builder.Configuration);
+
+var app = builder.Build();
+
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
+app.UseHttpsRedirection();
+app.UseAuthorization();
+app.MapControllers();
+
+app.Run();
+4. Controllers/OwnerController.cs
+Цей контролер прийматиме запити щодо власника (реєстрація, логін).
+
+C#
+using Application.DTOs;
+using Application.Services;
+using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Threading.Tasks;
+
+namespace WebAPI.Controllers
+{
+    [ApiController]
+    [Route("api/[controller]")]
+    public class OwnerController : ControllerBase
+    {
+        private readonly OwnerService _ownerService;
+
+        public OwnerController(OwnerService ownerService)
+        {
+            _ownerService = ownerService;
+        }
+
+        [HttpPost("register")]
+        public async Task<IActionResult> Register([FromBody] LoginDto dto)
+        {
+            try
+            {
+                await _ownerService.RegisterOwnerAsync(dto.Username, dto.Password);
+                return Ok(new { Message = "Користувача успішно зареєстровано" });
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { Error = ex.Message });
+            }
+        }
+
+        [HttpPost("login")]
+        public async Task<IActionResult> Login([FromBody] LoginDto dto)
+        {
+            try
+            {
+                var token = await _ownerService.AuthenticateAsync(dto.Username, dto.Password);
+                return Ok(new { Token = token });
+            }
+            catch (UnauthorizedAccessException ex)
+            {
+                return Unauthorized(new { Error = ex.Message });
+            }
+        }
+    }
+}
+5. Controllers/GenerationController.cs
+А цей контролер відповідає за станції та прогнози.
+
+C#
+using Application.DTOs;
+using Application.Services;
+using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+
+namespace WebAPI.Controllers
+{
+    [ApiController]
+    [Route("api/[controller]")]
+    public class GenerationController : ControllerBase
+    {
+        private readonly GenerationServiceClass _generationService;
+
+        public GenerationController(GenerationServiceClass generationService)
+        {
+            _generationService = generationService;
+        }
+
+        [HttpPost("plant")]
+        public async Task<IActionResult> RegisterPlant([FromQuery] int ownerId, [FromBody] PowerPlantDto dto)
+        {
+            try
+            {
+                await _generationService.RegisterPowerPlantAsync(ownerId, dto);
+                return Ok(new { Message = "Станцію зареєстровано" });
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { Error = ex.Message });
+            }
+        }
+
+        [HttpPost("plant/{plantId}/forecast")]
+        public async Task<IActionResult> SubmitForecast(int plantId, [FromQuery] DateTime date, [FromBody] List<HourDataDto> forecasts)
+        {
+            try
+            {
+                await _generationService.SubmitDailyForecastAsync(plantId, date, forecasts);
+                return Ok(new { Message = "Прогноз успішно подано" });
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { Error = ex.Message });
+            }
+        }
+    }
+}
+Після створення цих файлів ваш бекенд повністю зібраний. Можна запускати створення бази даних (міграції)!
